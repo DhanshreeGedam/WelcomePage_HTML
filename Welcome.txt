@@ -1,0 +1,27 @@
+<html>
+   <head>
+      <style>
+         .container {
+            position: relative;
+         }
+         .topleft {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            font-size: 18px;
+         }
+         img {
+            width: 40%;
+            height: auto;
+            opacity: 80;
+         }
+      </style>
+   </head>
+   <body>
+      <h1>Chatbot on Career Guidance</h1>
+      <div class = "container">
+         <img src = "https://ngobox.org/news/forksinroad.png" alt = "Norway" width = "1000" height = "300">
+         <div class = "topleft"></div>
+      </div>
+   </body>
+</html>
